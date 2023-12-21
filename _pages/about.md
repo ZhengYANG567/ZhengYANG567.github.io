@@ -19,7 +19,9 @@ Education
   Advisor: Dr. Sung Kyu Lim
 
 * B.S., Hong Kong University of Science and Technology, Hong Kong SAR, People's Republic of China, 08/2019 - 06/2023
+  
   Electrical and Computer Engineering
+
   * Dean's list in 2020 Fall, 2021 Spring and 2022 Spring
   * 2021/22, 2022/23 University's Scholarship Scheme for Continuing Undergraduate Students
 
