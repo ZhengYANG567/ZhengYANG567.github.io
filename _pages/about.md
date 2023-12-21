@@ -13,8 +13,10 @@ Experience
 Education
 ======
 * Ph.D.,  Georgia Institute of Technology, Atlanta, GA, United States, 08/2023 – Present
-Electrical and Computer Engineering
-Advisor: Dr. Sung Kyu Lim
+  
+  Electrical and Computer Engineering
+  
+  Advisor: Dr. Sung Kyu Lim
 
 * B.S., Hong Kong University of Science and Technology, Hong Kong SAR, People's Republic of China, 08/2019 - 06/2023
   Electrical and Computer Engineering
