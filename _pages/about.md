@@ -1,3 +1,13 @@
+---
+ permalink: /
+ title: "About me"
+ excerpt: "About me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
+
 Welcome to my personal website!
 
 I am a first-year Ph.D. student at the [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/) under the advice of [Prof. Sung Kyu Lim](https://limsk.ece.gatech.edu/). I earned my B.S. in Electrical Engineering at Hong Kong University of Science and Technology (HKUST) in 2023 with First Class Honors. My research interests are about device modeling and machine learning, and I'm currently working on utilizing machine learning to analyze the current crowding effect in Through-Silicon Via (TSV).  
