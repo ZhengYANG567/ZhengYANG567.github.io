@@ -6,7 +6,10 @@ author_profile: true
 ---
 * Graph Attention-Based Current Crowding Analysis at TSV Interfaces in 3D Power Delivery Networks  
   **Zheng Yang**, Zhen Zhuang, Tsung-Yi Ho, and Sung Kyu Lim.   
-  *31st IEEE/ACM Asia South Pacific Design Automation Conference (ASPDAC)*, 2026. (Accepted)     
+  *31st IEEE/ACM Asia South Pacific Design Automation Conference (ASPDAC)*, 2026. (Accepted)  
+* DPO-3D: Differentiable Power Delivery Network Optimization via Flexible Modeling for Routability and IR-Drop Tradeoff in Face-to-Face 3D ICs  
+  Zhen Zhuang, **Zheng Yang**, Yuxuan Zhao, Jiawei Hu, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho  
+  *31st IEEE/ACM Asia South Pacific Design Automation Conference (ASPDAC)*, 2026. (Accepted)  
 * On-chip Integrated Voltage Regulators: Frontside, Backside, or Off-Chip?  
   Amaan Rahman, Seungmin Woo, **Zheng Yang** and Sung Kyu Lim.  
   *ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED)*, 2025.  
