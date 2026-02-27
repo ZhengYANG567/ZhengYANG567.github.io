@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* RTL-3D: Timing-aware Tier Partitioning for 3D ICs Using Pre-synthesis Timing Analysis
-  Haoyang Xu, **Zheng Yang**, Zhen Zhuang, Leilei Jin, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho.
+* RTL-3D: Timing-aware Tier Partitioning for 3D ICs Using Pre-synthesis Timing Analysis  
+  Haoyang Xu, **Zheng Yang**, Zhen Zhuang, Leilei Jin, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho.  
   *63nd ACM/IEEE Design Automation Conference (DAC)*, 2026.
-* Mixed-structure double-sided redistribution layer routing for glass interposer-based 5.5d ics
-  Haoyang Xu, Zhen Zhuang, Leilei Jin, Zheng Yang, Chen Wu, Lei He, Sung Kyu Lim, and Tsung-Yi Ho.
+* Mixed-structure double-sided redistribution layer routing for glass interposer-based 5.5d ics  
+  Haoyang Xu, Zhen Zhuang, Leilei Jin, Zheng Yang, Chen Wu, Lei He, Sung Kyu Lim, and Tsung-Yi Ho.  
   *63nd ACM/IEEE Design Automation Conference (DAC)*, 2026.
 * Graph Attention-Based Current Crowding Analysis at TSV Interfaces in 3D Power Delivery Networks  
   **Zheng Yang**, Zhen Zhuang, Tsung-Yi Ho, and Sung Kyu Lim.   
