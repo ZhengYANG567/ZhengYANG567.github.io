@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a Fourth-year Ph.D. student at the [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/) under the advice of [Prof. Azad Naeemi](https://ece.gatech.edu/directory/azad-j-naeemi). I earned my B.S. in Electrical Engineering at Hong Kong University of Science and Technology (HKUST) in 2023 with First Class Honors. My research interests are in physical design and machine learning, and I'm currently working on thermal-aware physical design flows for 2.5D/3D ICs.  
+I am a Fourth-year Ph.D. student at the [Nanoelectronics Research Lab](https://nrl.gatech.edu/) under the advice of [Prof. Azad Naeemi](https://ece.gatech.edu/directory/azad-j-naeemi). I earned my B.S. in Electrical Engineering at Hong Kong University of Science and Technology (HKUST) in 2023 with First Class Honors. My research interests are in physical design and machine learning, and I'm currently working on thermal-aware physical design flows for 2.5D/3D ICs.  
 
 Experience
 ======
