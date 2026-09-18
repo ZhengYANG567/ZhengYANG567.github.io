@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * Routing-Driven Differentiable Co-Optimization of Power and Thermal Integrity for Large Scale Glass Substrate. 
-  Park, Min Gyu and **Zheng Yang** and Lim, Sung Kyu.
+  Park, Min Gyu and **Zheng Yang** and Lim, Sung Kyu.  
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2026. 
 * RTL-3D: Timing-aware Tier Partitioning for 3D ICs Using Pre-synthesis Timing Analysis  
   Haoyang Xu, **Zheng Yang**, Zhen Zhuang, Leilei Jin, Bei Yu, Sung Kyu Lim, and Tsung-Yi Ho.  
