@@ -10,10 +10,16 @@ redirect_from:
 
 Welcome to my personal website!
 
-I am a third-year Ph.D. student at the [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/) under the advice of [Prof. Sung Kyu Lim](https://limsk.ece.gatech.edu/). I earned my B.S. in Electrical Engineering at Hong Kong University of Science and Technology (HKUST) in 2023 with First Class Honors. My research interests are about device modeling and machine learning, and I'm currently working on utilizing machine learning to analyze the current crowding effect in Through-Silicon Via (TSV).  
+I am a Fourth-year Ph.D. student at the [Georgia Tech Computer-aided Design Lab (GTCAD)](https://gtcad.gatech.edu/) under the advice of [Prof. Azad Naeemi](https://ece.gatech.edu/directory/azad-j-naeemi). I earned my B.S. in Electrical Engineering at Hong Kong University of Science and Technology (HKUST) in 2023 with First Class Honors. My research interests are in physical design and machine learning, and I'm currently working on thermal-aware physical design flows for 2.5D/3D ICs.  
 
 Experience
 ======
+* Internship at Futurewei Technologies, Inc., 05/2026 - 08/2026 
+  * Developed a systematic thermal management framework for multi-tier 3D ICs.    
+  * Evaluated and optimized thermal management solutions, including advanced cooling strategies and thermal-aware
+design techniques, using COMSOL simulations.    
+  * Filed two patent applications based on the proposed thermal management technologies for multi-tier 3D ICs.  
+
 * Internship at Renesas Semiconductor Design (Beijing), 06/2022 - 08/2022
   * Assisted in running the simulation to verify the signal integrity.
 
